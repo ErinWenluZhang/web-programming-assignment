@@ -1,0 +1,3 @@
+1:cat:wenlu:abyssinian:americanshorthair:female:under 6 months:Can get along with other cat:Can not with other dog:Can not with small child:Nice cat:wenlu:zhang:daf@sss.com
+2:dog:wenlu:corgi:male:1-5 years:Can get along with other cat:Can get along with other dog:Can get along with small child:Good boy:wenlu:zhang:saf@dd.com
+3:dog:marc:alaskanmalamute:male:1-5 years:Can get along with other cat:Can get along with other dog:Can get along with small child:lovely dog!:marc:white:adae@lll.com
